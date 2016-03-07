@@ -1,6 +1,6 @@
 Package.describe({
   summary: "A wrapper for Malihu Custom Scrollbar. Highly customizable custom scrollbar jQuery plugin",
-  version: "3.0.6",
+  version: "3.1.3",
   git: "https://github.com/MaazAli/Meteor-Malihu-Custom-Scrollbar.git"
 });
 
