@@ -10,3 +10,5 @@ ehthumbs.db
 
 #Ignore temp files
 *~
+
+.idea
